@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbsrQoXh6bGxIP5P9unfkX7niUYTz7lyVuaf/H7tdGxaQD06BNGaFcEwJPXEqxQ7/8kkHsbFeMlD91iQg2Ex4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivaro\\source\\repos\\platformer\\platformer\\platformer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivaro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
